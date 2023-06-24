@@ -1,0 +1,277 @@
+﻿Class,Subject,Stream,Question,A,B,C,D,CorrectAns,Difficulty,Timelimit,Marks,studentAns,IsCorrect,Timetaken,Timediff,MarksObt
+9,Gk,None, In which Indian state is Chauri Chaura village located?,Uttar Pradesh,Bihar,Rajasthan,Punjab,A,Medium,12,2,A,Yes,8,4,1
+9,Gk,None,Who is the current Prime Minister of India?,Narendra Modi,Rahul Gandhi,Manmohan Singh,Arvind Kejriwal,A,Easy,12,1,A,Yes,6,6,1
+9,Gk,None,What is the currency of Japan?,Yen,Yuan,Euro,Rupee,A,Easy,12,1,C,No,7,5,-0.5
+9,Gk,None,Who is the author of the Harry Potter book series?,J.K. Rowling,Stephen King,Dan Brown,Agatha Christie,A,Medium,12,2,A,Yes,8,4,1
+9,Gk,None,Which country hosted the 2016 Summer Olympics?,Brazil,Russia,Japan,United States,A,Medium,12,2,B,No,6,6,-0.5
+9,Gk,None,Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Albert Einstein,A,Hard,12,3,A,Yes,5,7,1
+9,Gk,None,What is the largest ocean in the world?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,A,Hard,12,3,D,No,8,4,0
+9,Gk,None,What is the national animal of India?,Bengal Tiger,Lion,Elephant,Panda,A,Easy,12,1,A,Yes,7,5,1
+9,Gk,None,"Who painted the famous artwork ""The Starry Night""?",Vincent van Gogh,Leonardo da Vinci,Pablo Picasso,Michelangelo,A,Easy,12,1,B,No,6,6,-0.5
+9,Gk,None,What is the largest desert in the world?,Sahara Desert,Gobi Desert,Atacama Desert,Mojave Desert,A,Medium,12,2,A,Yes,6,6,1
+9,Gk,None,Which planet is known as the Red Planet?,Mars,Venus,Jupiter,Saturn,A,Medium,12,2,C,No,6,6,-0.5
+9,Gk,None,"Who wrote the famous novel ""Pride and Prejudice""?",Jane Austen,William Shakespeare,F. Scott Fitzgerald,Charles Dickens,A,Hard,12,3,A,Yes,8,4,1
+9,Gk,None,What is the largest waterfall in the world?,Angel Falls,Niagara Falls,Victoria Falls,Iguazu Falls,A,Hard,12,3,B,No,7,5,0
+9,Gk,None,Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Mark Zuckerberg,Larry Page,A,Easy,12,1,A,Yes,8,4,0.5
+9,Gk,None,What is the tallest mountain in the world?,Mount Everest,Mount Kilimanjaro,Mount Fuji,Mount McKinley,A,Easy,12,1,C,No,7,5,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Last Supper""?",Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Michelangelo,A,Medium,12,2,A,Yes,6,6,1
+9,Gk,None,Which country is known as the Land of the Rising Sun?,Japan,China,India,South Korea,A,Medium,12,2,D,No,5,7,-0.5
+9,Gk,None,Who discovered gravity?,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,A,Hard,12,3,B,No,4,8,0
+9,Gk,None,What is the largest continent in the world?,Asia,Europe,Africa,North America,A,Hard,12,3,A,Yes,6,6,1
+9,Gk,None,What is the national bird of Australia?,Emu,Kiwi,Peacock,Penguin,A,Easy,12,1,C,No,5,7,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Scream""?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Salvador Dali,A,Easy,12,1,A,Yes,6,6,1
+9,Gk,None,What is the capital city of Canada?,Ottawa,Toronto,Vancouver,Montreal,A,Medium,12,2,B,No,5,7,-0.5
+9,Gk,None,Which country is famous for the Great Barrier Reef?,Australia,Brazil,Mexico,Egypt,A,Medium,12,2,A,Yes,6,6,1
+9,Gk,None,"Who wrote the famous play ""Romeo and Juliet""?",William Shakespeare,Oscar Wilde,Tennessee Williams,Arthur Miller,A,Hard,12,3,C,No,7,5,0
+9,Gk,None,What is the largest animal in the world?,Blue Whale,African Elephant,Giraffe,Polar Bear,A,Hard,12,3,A,Yes,8,4,1
+9,Gk,None,"Who composed the famous symphony ""Symphony No. 9""?",Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Pyotr Ilyich Tchaikovsky,A,Easy,12,1,B,No,7,5,-0.5
+9,Gk,None,What is the national flower of Japan?,Cherry Blossom,Rose,Lily,Lotus,A,Easy,12,1,A,Yes,8,4,0.5
+9,Gk,None,Which country is known for the Taj Mahal?,India,China,Egypt,Greece,A,Medium,12,2,D,No,7,5,-0.5
+9,Gk,None,Who discovered electricity?,Benjamin Franklin,Isaac Newton,Thomas Edison,Albert Einstein,A,Medium,12,2,A,Yes,6,6,1
+9,Gk,None,What is the official language of Brazil?,Portuguese,Spanish,French,Italian,A,Hard,12,3,B,No,7,5,0
+9,Gk,None,What is the largest island in the world?,Greenland,Madagascar,Borneo,New Guinea,A,Hard,12,3,A,Yes,5,7,1
+9,Gk,None,"Who painted the famous artwork ""Mona Lisa""?",Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Salvador Dali,A,Easy,12,1,C,No,7,5,-0.5
+9,Gk,None,What is the capital city of Australia?,Canberra,Sydney,Melbourne,Brisbane,A,Easy,12,1,A,Yes,6,6,1
+9,Gk,None,"Who is the author of the book ""To Kill a Mockingbird""?",Harper Lee,J.R.R. Tolkien,George Orwell,Ernest Hemingway,A,Medium,12,2,B,No,8,4,-0.5
+9,Gk,None,Which country is famous for the pyramids?,Egypt,Greece,China,Italy,A,Medium,12,2,A,Yes,4,8,1
+9,Gk,None,"Who painted the famous artwork ""The Persistence of Memory""?",Salvador Dali,Claude Monet,Pablo Picasso,Vincent van Gogh,A,Hard,12,3,D,No,5,7,0
+9,Gk,None,What is the largest planet in our solar system?,Jupiter,Earth,Saturn,Mars,A,Hard,12,3,A,Yes,6,6,1
+9,Gk,None,What is the national bird of India?,Indian Peacock,Sparrow,Eagle,Penguin,A,Easy,12,1,C,No,7,5,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Mona Lisa""?",Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Michelangelo,A,Easy,12,1,A,Yes,4,8,1
+9,Gk,None,What is the currency of the United States?,US Dollar,Euro,Pound Sterling,Yen,A,Medium,12,2,B,No,5,7,-0.5
+9,Gk,None,Which country is known as the Land Down Under?,Australia,Brazil,Mexico,Japan,A,Medium,12,2,A,Yes,5,7,1
+9,Gk,None,"Who wrote the famous play ""Hamlet""?",William Shakespeare,Oscar Wilde,Tennessee Williams,Arthur Miller,A,Hard,12,3,C,No,5,7,0
+9,Gk,None,What is the fastest land animal in the world?,Cheetah,Lion,Tiger,Elephant,A,Hard,12,3,A,Yes,6,6,1
+9,Gk,None,What is the largest lake in the world?,Caspian Sea,Lake Superior,Lake Victoria,Lake Baikal,A,Easy,12,1,B,No,5,7,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Girl with a Pearl Earring""?",Johannes Vermeer,Pablo Picasso,Vincent van Gogh,Claude Monet,A,Easy,12,1,A,Yes,6,6,1
+9,Gk,None,What is the capital city of France?,Paris,London,Rome,Berlin,A,Medium,12,2,C,No,7,5,-0.5
+9,Gk,None,Which country is famous for the Statue of Liberty?,United States,France,Italy,Spain,A,Medium,12,2,A,Yes,8,4,1
+9,Gk,None,"Who wrote the famous novel ""1984""?",George Orwell,J.R.R. Tolkien,Harper Lee,Ernest Hemingway,A,Hard,12,3,B,No,5,7,0
+9,Gk,None,What is the largest bird in the world?,Ostrich,Eagle,Peacock,Flamingo,A,Hard,12,3,A,Yes,4,8,1
+9,Gk,None,What is the national flower of India?,Lotus,Rose,Sunflower,Lily,A,Easy,12,1,C,No,5,7,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Starry Night""?",Vincent van Gogh,Leonardo da Vinci,Pablo Picasso,Michelangelo,A,Easy,12,1,A,Yes,6,6,1
+9,Gk,None,What is the capital city of Canada?,Ottawa,Toronto,Vancouver,Montreal,A,Medium,12,2,B,No,8,4,-0.5
+9,Gk,None,Which country is famous for the Great Barrier Reef?,Australia,Brazil,Mexico,Egypt,A,Medium,12,2,A,Yes,7,5,1
+9,Gk,None,"Who wrote the famous play ""Romeo and Juliet""?",William Shakespeare,Oscar Wilde,Tennessee Williams,Arthur Miller,A,Hard,12,3,C,No,9,3,0
+9,Gk,None,What is the largest animal in the world?,Blue Whale,African Elephant,Giraffe,Polar Bear,A,Hard,12,3,A,Yes,10,2,1
+9,Gk,None,"Who composed the famous symphony ""Symphony No. 9""?",Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Pyotr Ilyich Tchaikovsky,A,Easy,12,1,B,No,10,2,-0.5
+9,Gk,None,What is the national flower of Japan?,Cherry Blossom,Rose,Lily,Lotus,A,Easy,12,1,A,Yes,10,2,0.5
+9,Gk,None,Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Mark Zuckerberg,Larry Page,A,Easy,12,1,C,No,9,3,-0.5
+9,Gk,None,What is the tallest mountain in the world?,Mount Everest,Mount Kilimanjaro,Mount Fuji,Mount McKinley,A,Easy,12,1,A,Yes,11,1,0.5
+9,Gk,None,"Who painted the famous artwork ""The Last Supper""?",Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Michelangelo,A,Medium,12,2,A,Yes,11,1,0.5
+9,Gk,None,Which country is known as the Land of the Rising Sun?,Japan,China,India,South Korea,A,Medium,12,2,D,No,11,1,-0.5
+9,Gk,None,Who discovered gravity?,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,A,Hard,12,3,B,No,12,0,0
+9,Gk,None,What is the largest continent in the world?,Asia,Europe,Africa,North America,A,Hard,12,3,A,Yes,12,0,1
+9,Gk,None,What is the national bird of Australia?,Emu,Kiwi,Peacock,Penguin,A,Easy,12,1,C,No,12,0,-0.5
+9,Gk,None,"Who painted the famous artwork ""The Scream""?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Salvador Dali,A,Easy,12,1,A,Yes,8,4,0.5
+9,Gk,None,What is the capital city of Canada?,Ottawa,Toronto,Vancouver,Montreal,A,Medium,12,2,B,No,7,5,-0.5
+9,Gk,None,Which country is famous for the Great Barrier Reef?,Australia,Brazil,Mexico,Egypt,A,Medium,12,2,A,Yes,8,4,1
+9,English,None,Choose the correct form of the verb: They ________ to the park every Sunday.,go,goes,went,gone,go,Easy,12,3,A,Yes,8,4,1
+9,English,None,"Identify the noun in the following sentence: ""The cat chased the mouse.""",cat,chased,the,mouse,mouse,Easy,12,3,B,No,7,5,0
+9,English,None,Choose the correct form of the verb: She ________ her homework before dinner.,finish,finishes,finished,finishing,finishes,Easy,12,1,A,Yes,8,4,0.5
+9,English,None,"What is the synonym for the word ""happy""?",sad,joyful,angry,tired,joyful,Easy,12,1,C,No,7,5,-0.5
+9,English,None,Choose the correct form of the verb: He ________ soccer on weekends.,play,plays,played,playing,plays,Easy,12,2,A,Yes,6,6,1
+9,English,None,Which sentence is written correctly?,She don't like pizza.,She doesn't likes pizza.,She doesn't like pizza.,She doesn't like pizzas.,She doesn't like pizza.,Medium,12,2,D,No,5,7,-0.5
+9,English,None,"Identify the adjective in the following sentence: ""The tall man wore a blue hat.""",tall,man,wore,blue,tall,Medium,12,3,B,No,4,8,0
+9,English,None,Choose the correct form of the verb: We ________ to the beach last summer.,go,goes,went,gone,went,Medium,12,3,A,Yes,6,6,1
+9,English,None,"What is the antonym for the word ""brave""?",cowardly,strong,weak,fearful,cowardly,Medium,12,1,C,No,5,7,-0.5
+9,English,None,Choose the correct form of the verb: She ________ a book from the library.,borrow,borrows,borrowed,borrowing,borrowed,Medium,12,1,A,Yes,6,6,1
+9,English,None,Which sentence is written correctly?,I seen the movie.,I saw the movie.,I seed the movie.,I seens the movie.,I saw the movie.,Hard,12,2,B,No,5,7,-0.5
+9,English,None,"Identify the preposition in the following sentence: ""The bird flew over the tall tree.""",bird,flew,over,tall,over,Hard,12,2,A,Yes,6,6,1
+9,English,None,Choose the correct form of the verb: The team ________ the championship last year.,win,wins,won,winning,won,Hard,12,3,C,No,7,5,0
+9,English,None,"What is the synonym for the word ""generous""?",greedy,kind,friendly,selfish,kind,Hard,12,3,A,Yes,8,4,1
+9,English,None,Choose the correct form of the verb: They ________ to the party last night.,went,go,wented,gone,went,Hard,12,1,B,No,7,5,-0.5
+9,English,None,"Identify the adverb in the following sentence: ""She sings beautifully.""",sings,she,beautifully,adverb,beautifully,Easy,12,1,A,Yes,8,4,0.5
+9,English,None,Choose the correct form of the verb: My sister and I ________ to the party together.,goes,go,went,gone,go,Easy,12,2,D,No,7,5,-0.5
+9,English,None,"Which pronoun should replace the underlined phrase? ""The book is on the table. ________ is a good read.""",He,She,It,They,It,Easy,12,2,A,Yes,6,6,1
+9,English,None,"What is the opposite of the word ""genuine""?",fake,real,authentic,original,fake,Easy,12,3,B,No,7,5,0
+9,English,None,Choose the correct form of the verb: The dog ________ happily in the park.,runs,run,ran,running,runs,Easy,12,3,A,Yes,5,7,1
+9,English,None,Which sentence is written correctly?,The boy plays football.,The boy play football.,The boy played football.,The boy playing football.,The boy plays football.,Medium,12,1,C,No,7,5,-0.5
+9,English,None,"Identify the conjunction in the following sentence: ""I want to go to the movies, but I have to study.""",want,go,to,but,but,Medium,12,1,A,Yes,6,6,1
+9,English,None,Choose the correct form of the verb: They ________ for the bus when it arrived.,waits,wait,waited,waiting,waited,Medium,12,2,B,No,8,4,-0.5
+9,English,None,"What is the antonym for the word ""victory""?",defeat,win,conquer,triumph,defeat,Medium,12,2,A,Yes,4,8,1
+9,English,None,Choose the correct form of the verb: The teacher ________ us an interesting story yesterday.,tells,tell,told,telling,told,Medium,12,3,D,No,5,7,0
+9,English,None,Which sentence is written correctly?,He don't like coffee.,He doesn't likes coffee.,He doesn't like coffee.,He doesn't like coffees.,He doesn't like coffee.,Hard,12,3,A,Yes,6,6,1
+9,English,None,"Identify the preposition in the following sentence: ""The cat jumped onto the table.""",cat,jumped,onto,table,onto,Hard,12,1,C,No,7,5,-0.5
+9,English,None,Choose the correct form of the verb: The team ________ hard to win the championship.,works,work,worked,working,worked,Hard,12,1,A,Yes,4,8,1
+9,English,None,"What is the synonym for the word ""abundant""?",scarce,plentiful,limited,scarce,plentiful,Hard,12,2,B,No,5,7,-0.5
+8,GK,None,Which is the biggest continent in the world?,North America,Asia,Africa,Australia,Asia,Medium,12,2,B,Yes,8,4,1
+8,GK,None,Which is longest river in the world?,Great Ganga,Nile,Amazon,Niger,Nile,Easy,12,2,B,Yes,6,6,-0.5
+8,GK,None,Which is the largest ocean in the world?,Indian Ocean,Pacific Ocean,Arctic Ocean,Atlantic Ocean,Pacific Ocean,Easy,12,3,A,No,7,5,1
+8,GK,None,Which is India’s first super computer?,Param8000,param80000,param800,param8,Param8000,Medium,12,3,A,Yes,8,4,0
+8,GK,None,Which bank is called bankers bank of India?,Reserve Bank of India,Punjab National Bank,State Bank of India,ICICI Bank,Reserve Bank of India,Medium,12,1,C,No,6,6,1
+8,GK,None,Which is largest animal in the world?,Sharke,Blue whale,Elephant,Giraffe,Blue whale,Hard,12,1,B,Yes,5,7,-0.5
+8,GK,None,Which is largest animal on land?,Tiger,White Elephant,African Elephant,Crocodile,African Elephant,Hard,12,2,A,No,8,4,1
+8,GK,None,Which is largest island in the world?,New Guinea,Andaman Nicobar,Greenland,Hawaii,Greenland,Easy,12,2,C,Yes,7,5,-0.5
+8,GK,None,Which is largest flower in the world?,Rafflesia,Jasmine,Balloon Flower,Camellia,Rafflesia,Easy,12,3,D,No,6,6,1
+8,GK,None,Which is the 29th state of India?,Uttarakhand,Telangana,Uttar Pradesh,Madhya Pradesh,Telangana,Medium,12,3,B,Yes,6,6,0
+8,GK,None,Tsunami is a word in which language?,Hindi,Urdu,Japanese,French,Japanese,Medium,12,1,D,No,6,6,0.5
+8,GK,None,Which state has the longest coastal line in India?,Gujarat,Kerala,Karnataka,West Bengal,Gujarat,Hard,12,1,A,Yes,8,4,-0.5
+8,GK,None,Which continent is known as Dark Continent?,Asia,South America,Australia,Africa,Africa,Hard,12,2,C,No,7,5,1
+8,GK,None,On which river the Uri dam is constructed?,Beas,Jhalam,Sutlej,Ganga,Jhalam,Easy,12,2,B,Yes,8,4,-0.5
+8,GK,None,Which is the smallest country in the world?,Vatican City,Bhutan,Nepal,Shri Lanka,Vatican City,Easy,12,3,C,No,7,5,0
+8,GK,None,Which is largest desert in the world?,KALAHARI,GOBI,TAKLAMAKAN,SAHARA,SAHARA,Medium,12,3,D,Yes,6,6,1
+8,GK,None,Who was India’s first Deputy Prime Minister?,Morarji Desai,Vallabhbhai Patel,Devi Lal,Charan Singh,Vallabhbhai Patel,Medium,12,1,A,No,5,7,-0.5
+8,GK,None,Which is hottest continent on Earth?,Africa,South Asia,North America,Australia,Africa,Hard,12,1,C,No,4,8,1
+8,GK,None,How many letters are there in the English alphabet?,20,26,24,21,26,Hard,12,2,B,Yes,6,6,-0.5
+8,GK,None,Which animal is Fastest land animal in the world?,Cheetah,Springbok,Lion,House Centipede,Cheetah,Easy,12,2,C,No,5,7,1
+8,GK,None,Which is the highest dam of India?,Rihand Dam,Tehri Dam,Mettur Dam,Sardar Sarovar Dam,Tehri Dam,Easy,12,3,B,Yes,6,6,0
+8,GK,None,Which is largest freshwater lake in the world?,Great Bear Lake,Lake Superior,Ohrid Lake,Great Salt Lake,Lake Superior,Medium,12,3,A,No,5,7,1
+8,GK,None,How many days are there in August?,30,31,28,29,31,Medium,12,1,B,Yes,6,6,-0.5
+8,GK,None,What is the 19th letter of the English alphabet?,N,M,W,S,S,Hard,12,1,C,No,7,5,0.5
+8,GK,None,Who was India’s first President?,Dr. Rajendra Prasad,Sarvepalli Radhakrishnan,Varahagiri Venkata Giri,Varahagiri Venkata Giri,Dr. Rajendra Prasad,Hard,12,2,A,Yes,8,4,-0.5
+8,GK,None,Which Indian state has a separate constitution?,Jammu and Kashmir,West Bengal,Haryana,Goa,Jammu and Kashmir,Easy,12,2,D,No,7,5,1
+8,GK,None,Who is the first prime minister of India?,Narendra Modi,Jawaharlal Nehru,Motilal Nehru,Indra Gandhi,Jawaharlal Nehru,Easy,12,3,B,Yes,8,4,0
+8,GK,None,Panama Canal linked which 2 oceans?,Atlantic and Pacific,Atlantic and Indian,Arctic and Pacific,Indian and Pacific,Atlantic and Pacific,Medium,12,3,D,No,7,5,1
+8,GK,None,Which is smallest continent in the world?,Asia,Australia,Arctic,Africa,Australia,Medium,12,1,B,Yes,6,6,-0.5
+8,GK,None,Who was the inventor of electricity?,Benjamin,Benjamin Franklin,Leonardo da Vinci,Vikings,Benjamin Franklin,Hard,12,1,C,No,7,5,1
+8,GK,None,Which metal is the lightest metal in world?,Zinc,Lithium,Platinum,Gold,Lithium,Hard,12,2,B,Yes,5,7,-0.5
+8,GK,None,LED stands for what?,Light emitting Device,Low emitting Diode,Light electronic Diode,Light Emitting Diode,Light Emitting Diode,Easy,12,2,B,No,7,5,1
+8,GK,None,How many colors are there in a rainbow?,10,9,7,11,7,Easy,12,3,C,Yes,6,6,0
+8,GK,None,We smell with which part of our body?,Ear,Mouth,Brain,Nose,Nose,Medium,12,3,A,No,8,4,1
+8,GK,None,‘Taj Mahal’ is located at which place?,Dehradun,Agra,Ranchi,Mumbai,Agra,Medium,12,1,B,Yes,4,8,-0.5
+8,GK,None,Computer is connected to Internet by which device?,Modem,Mouse,CPU,RAM,Modem,Hard,12,1,C,No,5,7,1
+8,GK,None,Which is smallest planet in our solar system?,The Earth,Mars,Mercury,Saturn,Mercury,Hard,12,2,C,Yes,6,6,-0.5
+8,GK,None,What is Sun?,Planet,Comet,Pulsar,Star,Star,Easy,12,2,A,No,7,5,1
+8,GK,None,The Moon is the natural satellite of which planet?,The Earth,Mercury,Venus,Pluto,The Earth,Easy,12,3,A,Yes,4,8,0
+8,GK,None,How many players are there in an ice hockey team?,5,7,8,6,6,Medium,12,3,B,No,5,7,1
+8,GK,None,How many players are there in a Cricket team?,10,9,6,11,11,Medium,12,1,D,Yes,5,7,-0.5
+8,GK,None,General Election in India hold after how many years?,2,10,6,5,5,Hard,12,1,C,No,5,7,1
+8,GK,None,What is the capital of United States of America?,New York,"Washington, D.C.",Los Angeles,Philadelphia,"Washington, D.C.",Hard,12,2,B,Yes,6,6,-0.5
+8,GK,None,What is the capital of United Kingdom?,London,Liverpool,Bristol,Edinburgh,London,Easy,12,2,D,No,5,7,1
+8,GK,None,How many meters are in 1 Kilometer?,500,2000,100,1000,1000,Easy,12,3,D,Yes,6,6,0
+8,GK,None,What is the capital of Karnataka?,Bengaluru,Mysore,Belgaum,Hubli,Bengaluru,Medium,12,3,C,No,7,5,1
+8,GK,None,World War ll (WW2) was ended in which year?,1965,1955,1945,1950,1945,Medium,12,1,C,Yes,8,4,-0.5
+8,GK,None,World War l (WW1) was ended in which year?,1917,1920,1919,1918,1918,Hard,12,1,D,No,5,7,1
+8,GK,None,In which year India celebrated its first Republic day?,1949,1950,1951,1952,1950,Hard,12,2,B,Yes,4,8,-0.5
+8,GK,None,Pakistan got independent in which year?,1947,1948,1949,1950,1947,Easy,12,2,B,No,5,7,1
+8,Maths,None,What is the value of π (pi)?,3.14,2.71,1.618,4.76,3.14,Easy,12,1,A,Yes,8,4,0
+8,Maths,None,What is the smallest prime number?,0,1,2,3,2,Easy,12,1,B,No,6,6,1
+8,Maths,None,Which of the following is a whole number?,-5,-√2,1/2,2/3,-5,Easy,12,1,A,Yes,5,7,-0.5
+8,Maths,None,The sum of the angles of a triangle is equal to,90 degrees,180 degrees,360 degrees,45 degrees,180 degrees,Easy,12,1,C,No,8,4,1
+8,Maths,None,Which of the following is an irrational number?,√16,√25,√81,√2,√2,Easy,12,1,D,Yes,7,5,-0.5
+8,Maths,None,Which of the following is a composite number?,2,7,9,13,9,Easy,12,1,A,No,6,6,1
+8,Maths,None,What is the value of 5! (factorial)?,25,120,720,5040,120,Easy,12,1,C,Yes,6,6,0
+8,Maths,None,Which property states that the order of addition or multiplication of numbers does not matter?,Associative property,Commutative property,Distributive property,Identity property,Commutative property,Easy,12,1,B,No,6,6,0.5
+8,Maths,None,"In a right-angled triangle, the side opposite the right angle is called the",Hypotenuse,Base,Perpendicular,Adjacent,Hypotenuse,Easy,12,1,C,Yes,8,4,-0.5
+8,Maths,None,The number 0.235 in decimal form can be written as a fraction as,23/50,47/100,47/200,47/500,47/200,Easy,12,1,D,No,7,5,1
+8,Maths,None,What is the value of 2² + 3³?,5,25,29,35,35,Easy,12,1,A,Yes,8,4,-0.5
+8,Maths,None,Which of the following is a prime number?,12,19,21,28,19,Easy,12,1,C,No,7,5,0
+8,Maths,None,Which property states that the product of a number and 1 is the number itself?,Associative property,Commutative property,Identity property,Distributive property,Identity property,Easy,12,1,B,Yes,6,6,1
+8,Maths,None,"In a parallelogram, opposite sides are",Parallel,Perpendicular,Equal,None of the above,Parallel,Easy,12,1,C,No,5,7,-0.5
+8,Maths,None,Which of the following is a natural number?,-2,0,1,√3,1,Easy,12,1,B,No,4,8,1
+8,Maths,None,What is the value of 10% of 200?,20,2,2000,0.2,20,Easy,12,1,A,Yes,6,6,-0.5
+8,Maths,None,"In the fraction 3/4, the numerator represents",Whole,Denominator,Part,None of the above,Part,Easy,12,1,B,No,5,7,1
+8,Maths,None,Which of the following is a rational number?,√3,0.5,-π,e,0.5,Easy,12,1,C,Yes,6,6,0
+8,Maths,None,Which property states that the sum of a number and zero is the number itself?,Associative property,Identity property,Commutative property,Distributive property,Identity property,Easy,12,1,A,No,5,7,1
+8,Maths,None,What is the value of 2 + 2 x 2?,4,6,8,10,6,Easy,12,1,D,Yes,6,6,-0.5
+8,Maths,None,What is the value of 7² - 5²?,12,24,48,72,24,Easy,12,1,B,No,7,5,0.5
+8,Maths,None,Which of the following is a factor of 24?,8,12,15,20,8,Easy,12,1,D,Yes,8,4,-0.5
+8,Maths,None,What is the value of 4² + 3² - 2²?,9,13,21,25,21,Easy,12,1,B,No,7,5,1
+8,Maths,None,Which of the following is a multiple of 5?,14,21,25,32,25,Easy,12,1,C,Yes,8,4,0
+8,Maths,None,"What is the place value of 8 in the number 583,902?",Ones,Tens,Hundreds,Thousands,Tens,Easy,12,1,B,No,7,5,1
+8,Maths,None,"In a rectangle, opposite sides are",Parallel,Perpendicular,Equal,None of the above,Parallel,Easy,12,1,B,Yes,6,6,-0.5
+8,Maths,None,What is the value of 6! (factorial)?,36,72,120,720,720,Easy,12,1,C,No,7,5,1
+8,Maths,None,Which property states that the product of any number and zero is zero?,Commutative property,Distributive property,Identity property,Zero property,Zero property,Easy,12,1,A,Yes,5,7,-0.5
+8,Maths,None,Which of the following is a square number?,14,25,30,36,25,Easy,12,1,B,No,7,5,1
+8,Maths,None,What is the value of 1/4 + 1/2?,1/6,2/4,3/4,1/2,3/4,Easy,12,1,C,Yes,6,6,0
+8,Maths,None,What is the value of 3 x 4 - 8 ÷ 2?,4,6,7,10,6,Easy,12,1,C,No,8,4,1
+8,Maths,None,Which of the following is a whole number?,0,-√2,1/2,2/3,0,Easy,12,1,A,Yes,4,8,-0.5
+8,Maths,None,The number 1/3 in decimal form is,0.25,0.33,0.5,0.66,0.33,Easy,12,1,A,No,5,7,1
+8,Maths,None,What is the value of 5 - (-7)?,-12,-2,2,12,12,Easy,12,1,B,Yes,6,6,-0.5
+8,Maths,None,What is the value of 2⁴?,8,16,32,64,16,Easy,12,1,D,No,7,5,1
+8,Maths,None,What is the value of 3/7 ÷ 1/5?,3/35,8/21,15/7,7/3,15/7,Easy,12,1,C,Yes,4,8,0
+8,Maths,None,Which property states that the sum of any number and zero is the number itself?,Associative property,Identity property,Commutative property,Distributive property,Identity property,Easy,12,1,B,No,5,7,1
+8,Maths,None,What is the value of √144?,9,11,12,13,12,Easy,12,1,D,Yes,5,7,-0.5
+8,Maths,None,What is the value of 2³ + 3² - 5?,4,5,10,15,10,Easy,12,1,D,No,5,7,1
+8,Maths,None,Which of the following is a prime number?,14,17,20,24,17,Easy,12,1,B,Yes,6,6,-0.5
+8,Maths,None,Find the value of x: 3x + 5 = 17,3,4,6,7,4,Medium,80,3,A,No,60,20,0
+8,Maths,None,Simplify the expression: (2x² - 3x + 4) - (x² - 2x + 1),x² + x + 3,x² - x + 3,x² - x + 5,x² + x + 5,x² + x + 3,Medium,80,3,C,No,60,20,0
+8,Maths,None,Solve the equation: 2(3x + 5) - 4 = 14,2,3,4,5,3,Hard,80,3,B,Yes,50,30,3
+8,Maths,None,Find the value of x: 2(x + 3) = 5x - 4,-1,0,2,3,2,Hard,80,3,C,No,60,20,0
+8,Maths,None,Simplify the expression: 4x + 3(2x - 5) - (6x + 4),-9x - 19,-9x - 1,-6x - 1,-6x - 19,-6x - 19,Hard,80,4,B,Yes,70,10,2
+8,Maths,None,Solve the equation: 3x + 2 = 4x - 1,-3,-2,-1,0,-3,Hard,80,4,A,No,50,30,0
+8,Maths,None,Find the value of x: 5(x - 3) + 2 = 3x + 4,2,3,4,5,4,Hard,80,4,B,Yes,60,20,4
+8,Maths,None,Simplify the expression: 2(3x - 4) - 3(2 - x) + 5(1 - 2x),12x - 11,12x + 11,-12x + 11,-12x - 11,12x - 11,Medium,80,4,C,No,60,20,0
+8,Maths,None,Solve the equation: 2(2x - 3) + 4 = 3(3x + 1),-5/3,-2/3,-1/3,1/3,-5/3,Medium,80,5,A,Yes,60,20,4
+8,Maths,None,Find the value of x: 2x + 3 = 5x - 7,-5,-2,2,5,5,Medium,80,5,D,No,50,30,0
+8,Maths,None,Simplify the expression: 2(x + 3) + 3(2x - 1) - (4 - x),6x + 11,6x + 1,6x - 11,6x - 1,6x + 11,Medium,80,5,B,Yes,60,20,5
+8,Maths,None,Solve the equation: 3(2x + 1) - 2(3x - 4) = 5(4 - x),1,2,3,4,4,Medium,80,4,D,No,70,10,0
+8,Maths,None,Find the value of x: 4(3x - 2) = 2(x + 5) - 3,-7/5,-2/5,1/5,7/5,7/5,Medium,80,4,B,Yes,50,30,3
+8,Maths,None,Simplify the expression: 3(x - 2) + 4(2x + 1) - 2(4 - x),8x + 10,8x + 6,8x - 6,8x - 10,8x + 6,Hard,80,5,C,No,60,20,0
+8,Maths,None,Solve the equation: 2(x - 3) + 3 = 3(x + 2),-9/4,-7/4,-5/4,-1/4,-1/4,Hard,80,4,B,Yes,60,20,4
+8,Maths,None,Find the value of x: 5(2x - 1) = 3(4 - x) + 2,-1,-1/2,1/2,1,1/2,Hard,80,5,B,No,60,20,0
+8,Maths,None,Simplify the expression: 2(x + 3) - 3(x - 4) + 4(2 - x),9 - 5x,5 - 9x,5x - 9,9x - 5,9 - 5x,Hard,80,5,C,Yes,50,30,4
+8,Maths,None,Solve the equation: 3(x + 2) - 2(x - 3) = 4(2x + 1),-7/9,-1/9,3/4,7/9,7/9,Hard,80,4,A,No,60,20,0
+8,Maths,None,Find the value of x: 3(4x - 2) + 2 = 5(x + 3),-4/3,-2/3,2/3,4/3,4/3,Hard,80,5,B,Yes,70,10,5
+8,Maths,None,Simplify the expression: 4(2x - 3) - 2(3 - x) + 3(1 - 2x),5 - 9x,9 - 5x,9x - 5,5x - 9,5 - 9x,Hard,80,4,C,No,50,30,0
+8,Maths,None,Solve the equation: 4(x + 2) - 3(2 - x) = 5(3x + 1),-6/13,-2/13,6/13,12/13,12/13,Hard,80,5,C,Yes,60,20,5
+8,English,None,"What is the plural form of the word ""cat""?",cats,cates,caties,catz,cats,Easy,12,1,A,No,5,7,-0.5
+8,English,None,Choose the correct form of the verb: She ________ to the store yesterday.,go,goed,gone,went,went,Easy,12,1,A,Yes,8,4,1
+8,English,None,"Which pronoun should replace the underlined phrase? ""The book belongs to Sarah and __________.""",her,she,hers,herself,her,Easy,12,2,B,No,7,5,-0.5
+8,English,None,"Identify the adjective in the following sentence: ""The blue car drove past us.""",blue,car,drove,past,blue,Easy,12,2,D,Yes,6,6,1
+8,English,None,"What is the opposite of the word ""happy""?",sad,angry,excited,tired,sad,Easy,12,3,C,No,6,6,0
+8,English,None,Choose the correct form of the verb: They ________ to the beach every summer.,goes,go,goed,gone,go,Easy,12,3,B,Yes,6,6,0.5
+8,English,None,"Which pronoun should replace the underlined phrase? ""My sister and __________ are going to the party.""",me,my,mine,myself,I,Easy,12,1,D,No,8,4,-0.5
+8,English,None,"Identify the adverb in the following sentence: ""She ran quickly to catch the bus.""",quickly,ran,catch,bus,quickly,Easy,12,1,D,Yes,7,5,1
+8,English,None,"What is the synonym for the word ""beautiful""?",ugly,pretty,smart,funny,pretty,Easy,12,2,C,No,8,4,-0.5
+8,English,None,Choose the correct form of the verb: The dog ________ in the backyard all day.,sleep,sleeps,slept,sleeping,sleeps,Easy,12,2,C,Yes,7,5,0
+8,English,None,Which sentence is written correctly?,He don't like bananas.,He doesn't like banana.,He doesn't like bananas.,He doesn't likes banana.,He doesn't like bananas.,Medium,12,3,D,No,6,6,1
+8,English,None,Choose the correct form of the verb: We ________ our homework before dinner.,finish,finishes,finished,finishing,finish,Medium,12,3,B,Yes,5,7,-0.5
+8,English,None,"Which pronoun should replace the underlined phrase? ""The computer is mine, not __________.""",his,him,he,himself,his,Medium,12,1,B,No,4,8,1
+8,English,None,"Identify the conjunction in the following sentence: ""I wanted to go, but I was too tired.""",to,go,but,too,but,Medium,12,1,A,Yes,6,6,-0.5
+8,English,None,"What is the antonym for the word ""brave""?",cowardly,strong,weak,fearful,cowardly,Medium,12,2,B,No,5,7,1
+8,English,None,Choose the correct form of the verb: She ________ a book from the library.,borrow,borrows,borrowed,borrowing,borrowed,Medium,12,2,A,Yes,6,6,0
+8,English,None,"Which pronoun should replace the underlined phrase? ""My parents and __________ went on vacation.""",me,my,I,myself,I,Medium,12,3,C,No,5,7,1
+8,English,None,"Identify the preposition in the following sentence: ""The cat jumped over the fence.""",jumped,over,cat,fence,over,Medium,12,3,D,Yes,6,6,-0.5
+8,English,None,"What is the synonym for the word ""angry""?",sad,happy,mad,frustrated,mad,Medium,12,1,A,No,7,5,0.5
+8,English,None,Choose the correct form of the verb: The baby ________ in his crib.,sleep,sleeps,slept,sleeping,sleeps,Medium,12,1,C,Yes,8,4,-0.5
+8,English,None,Which sentence is written correctly?,I seen the movie.,I saw the movie.,I seed the movie.,I seens the movie.,I saw the movie.,Hard,12,2,B,No,7,5,1
+8,English,None,Choose the correct form of the verb: The team ________ the championship last year.,win,wins,won,winning,won,Hard,12,2,C,Yes,8,4,0
+8,English,None,"Which pronoun should replace the underlined phrase? ""The award belongs to him, not __________.""",his,he,him,himself,him,Hard,12,3,D,No,7,5,1
+8,English,None,"Identify the interjection in the following sentence: ""Wow! That was an amazing performance!""",Wow,was,an,amazing,Wow,Hard,12,3,A,Yes,6,6,-0.5
+8,English,None,"What is the antonym for the word ""generous""?",greedy,kind,friendly,selfish,greedy,Hard,12,1,C,No,7,5,1
+8,English,None,Choose the correct form of the verb: They ________ to the party last night.,went,go,goed,gone,went,Hard,12,1,B,Yes,5,7,-0.5
+8,English,None,"Which pronoun should replace the underlined phrase? ""The gift is for me, not __________.""",I,my,mine,myself,me,Hard,12,2,C,No,7,5,1
+8,English,None,"Identify the gerund in the following sentence: ""Running is my favorite exercise.""",Running,is,my,favorite,Running,Hard,12,2,B,No,6,6,0
+8,English,None,"What is the synonym for the word ""puzzled""?",confused,clear,certain,surprised,confused,Hard,12,3,A,Yes,8,4,1
+9,Maths,None,The median of a triangle divides it into two,isosceles triangle,congruent triangles,right angled triangle,triangles of equal areas,triangles of equal areas,Easy,10,1,D,Yes,7,3,1
+9,Maths,None,"If the perimeter of one of the faces of a cube is 40 cm, then its volume is:",6000 cm³,1600 cm³,1000 cm³,600 cm³,1000 cm³,Medium,30,,C,Yes,,,
+9,Maths,None,"A cuboid having surface areas of 3 adjacent faces as a, b and c has the volume:",3√abc,√abc,abc,(abc)²,√abc,Medium,30,,B,Yes,,,
+9,Maths,None,The radius of a cylinder is doubled and the height remains the same. The ratio between the volumes of the new cylinder and the original cylinder is,1 : 2,3 : 1,4 : 1,1 : 8,4 : 1,Medium,30,,C,Yes,,,
+9,Maths,None,Length of diagonals of a cube of side a cm is,√2a cm,√3a cm,√3a cm,1 cm,√3a cm,Medium,30,,B,Yes,,,
+9,Maths,None,Volume of spherical shell is,8 cm³,512 cm³,64 cm³,27 cm³,64 cm³,Medium,30,,C,Yes,,,
+9,Maths,None,Volume of hollow cylinder,π(R² - r²)h,πR²h,πr²h,πr²,π(R² - r²)h,Medium,30,,A,Yes,,,
+9,Maths,None,"The radius of a sphere is 2r, then its volume will be",4/3 πr³,4πr³,8/3 πr³,32/3 πr³,32/3 πr³,Medium,30,,D,Yes,,,
+9,Maths,None,"In a cylinder, radius is doubled and height is halved, curved surface area will be",halved,doubled,same,four time,same,Medium,60,,C,Yes,,,
+9,Maths,None,The total surface area of a cone whose radius is r/2 and slant height 2l is,2πr(l + r),πr(l + r/4),πr(l + r),2πrl,πr(l + r/4),Medium,60,,B,Yes,,,
+9,Maths,None,The radius of a hemispherical balloon increases from 6 cm to 12 cm as air is being pumped into it. The ratios of the surface areas of the balloon in the two cases is,1 : 4,1 : 3,2 : 3,2 : 1,1 : 4,Medium,60,,A,Yes,,,
+9,Maths,None,How many linear equation in x and y can be satisfied by x = 1 and y = 2?,only one,two,infinitely many,three,infinitely many,,,,,,,,
+9,Maths,None,"If (3, 2) is the solution 3x - ky = 5, then k equals of the equation",2,4,3,1/2,2,,,,,,,,
+9,Maths,None,Cost of book (x) exceeds twice the cost of pen (y) by Rs 10. This statement can be expressed as linear equation.,x - 2y - 10 = 0,2x - y - 10 = 0,2x + y - 10 = 0,x - 2y + 10 = 0,x - 2y - 10 = 0,,,,,,,,
+9,Maths,None,"If x represents the age of father and y represents the present age of the son, then the statement for ‘present age of father is 5 more than 6 times the age of the son’ in terms of mathematical equation is",6x + y = 5,x = 6y + 5,x + 6y = 5,x - 6 = 5,x = 6y + 5,,,,,,,,
+9,Maths,None,Equation of a line passing through origin is,x + y = 1,x = 2y - 4,x + y = 0,y = x - 1,x + y = 0,,,,,,,,
+9,Maths,None,The condition that the equation ax + by + c = 0 represents a linear equation in two variables is,"a ≠ 0, b = 0","b ≠ 0, a = 0","a = 0, b = 0","a ≠ 0, b ≠ 0","a ≠ 0, b ≠ 0",,,,,,,,
+9,Maths,None,The maximum number of points that lie on the graph of a linear equation in two variables is.,two,definite,infinitely many,three,infinitely many,,,,,,,,
+9,Maths,None,"Straight line passing through the points (-1, 1), (0, 0) and (1, -1) has equation",y - x,x + y = 0,y = 2x,2 + 3y = 7x,x + y = 0,,,,,,,,
+9,Maths,None,The class mark of the class 90-130 is:,90,105,115,110,110,,,,,,,,
+9,Maths,None,"The range of the data:25, 81, 20, 22, 16, 6, 17,15,12, 30, 32, 10, 91, 8, 11, 20 is",10,75,85,26,85,,,,,,,,
+9,Maths,None,"In a frequency distribution, the mid value of a class is 10 and the width of the class is 6. The upper limit of the class is:",6,7,10,13,13,,,,,,,,
+9,Maths,None,The width of each of five continuous classes in a frequency distribution is 5 and the lower class-limit of the lowest class is 10. The lower class-limit of the highest class is:,15,30,35,40,30,,,,,,,,
+9,Maths,None,Let m be the mid-point and 1 be the lower class limit of a class in a continuous frequency distribution. The upper class limit of the class is:,2m + l,2m - l,m - l,m - 2l,2m - l,,,,,,,,
+9,Maths,None,"The class marks of a frequency distribution are given as follows:15, 20, 25, ...
+The class corresponding to the class mark 15 is:",12.5 - 17.5,17.5 - 22.5,18.5 - 21.5,19.5 - 20.5,12.5 - 17.5,,,,,,,,
+9,Maths,None,"In the class intervals 10-20, 20-30, the number 20 is included in:",10-20,20-30,both the intervals,none of these intervals,20-30,,,,,,,,
+9,Maths,None,"A grouped frequency table with class intervals of equal sizes using 250-270 (270 not included in this interval) as one of the class interval is constructed for the following data:
+268, 220, 368, 258, 242, 310, 272, 342, 310, 290, 300, 320, 319, 304,402, 318, 406, 292, 354, 278, 210, 240, 330, 316, 406, 215, 258, 236.
+The frequency of the class 370-390 is:",0,1,3,5,0,,,,,,,,
+9,Maths,None,"A grouped frequency distribution table with classes of equal sizes using 63-72 (72 included) as one of the class is constructed for the following data:
+30, 32, 45, 54, 74, 78, 108, 112, 66, 76, 88, 40, 14, 20, 15, 35, 44, 66, 75, 84, 95, 96, 102, 110, 88, 74, 112, 14, 34, 44. The number of classes in the distribution will be:",9,10,11,12,10,,,,,,,,
+9,Maths,None,"The sides of a triangle are 56 cm, 60 cm and 52 cm long. Then the area of the triangle is",1322 cm²,1311 cm²,1344 cm²,1392 cm²,1344 cm²,,,,,,,,
+9,Maths,None,The area of an equilateral triangle with side 2√3 cm is,5.196 cm²,0.866 cm²,3.496 cm²,1.732 cm²,5.196 cm²,,,,,,,,
+9,Maths,None,The length of each side of an equilateral triangle having an area of 9√3 cm² is,8 cm,36 cm,4 cm,6 cm ,6 cm,,,,,,,,
+9,Maths,None,"The edges of a triangular board are 6 cm, 8 cm and 10 cm. The cost of painting it at the rate of 9 paise per cm² is",Rs 2.00,Rs 2.16,Rs 2.48,Rs 3.00,Rs 2.16,,,,,,,,
+9,Maths,None,The base of a right triangle is 48 cm and its hypotenuse is 50 cm. The area of the triangle is,168 cm²,252 cm²,336 cm²,504 cm²,336 cm²,,,,,,,,
+11,Maths,PCM,There are 12 points in a plane out of which 5 are collinear. The number of triangles formed by the points as vertices is,185,210,220,175,210,,,,,,,,
+11,Maths,PCM,Four dice are rolled. The number of possible outcomes in which at least one dice show 2 is,1296,671,625,585,671,,,,,,,,
+11,Maths,PCM,"If repetition of the digits is allowed, then the number of even natural numbers having three digits is",250,350,450,550,450,,,,,,,,
