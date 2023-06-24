@@ -1,16 +1,17 @@
-Question,A,B,C,D
-Choose the correct form of the verb: We ________ to the beach last summer.,go,goes,went,gone
-"Identify the adverb in the following sentence: ""She sings beautifully.""",sings,she,beautifully,adverb
-Choose the correct form of the verb: They ________ to the park every Sunday.,go,goes,went,gone
-Choose the correct form of the verb: The team ________ the championship last year.,win,wins,won,winning
-"What is the synonym for the word ""happy""?",sad,joyful,angry,tired
- In which Indian state is Chauri Chaura village located?,Uttar Pradesh,Bihar,Rajasthan,Punjab
-Which country is famous for the pyramids?,Egypt,Greece,China,Italy
-Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Mark Zuckerberg,Larry Page
-What is the fastest land animal in the world?,Cheetah,Lion,Tiger,Elephant
-What is the national bird of India?,Indian Peacock,Sparrow,Eagle,Penguin
-"In a cylinder, radius is doubled and height is halved, curved surface area will be",halved,doubled,same,four time
-Volume of spherical shell is,8 cm³,512 cm³,64 cm³,27 cm³
-Equation of a line passing through origin is,x + y = 1,x = 2y - 4,x + y = 0,y = x - 1
-Length of diagonals of a cube of side a cm is,√2a cm,√3a cm,√3a cm,1 cm
-How many linear equation in x and y can be satisfied by x = 1 and y = 2?,only one,two,infinitely many,three
+Question,A,B,C,D,CorrectAns
+Choose the correct form of the verb: The team ________ hard to win the championship.,works,work,worked,working,worked
+Choose the correct form of the verb: They ________ to the park every Sunday.,go,goes,went,gone,go
+"Identify the adverb in the following sentence: ""She sings beautifully.""",sings,she,beautifully,adverb,beautifully
+"Which pronoun should replace the underlined phrase? ""The book is on the table. ________ is a good read.""",He,She,It,They,It
+Choose the correct form of the verb: They ________ for the bus when it arrived.,waits,wait,waited,waiting,waited
+Which country is famous for the Great Barrier Reef?,Australia,Brazil,Mexico,Egypt,A
+"Who wrote the famous novel ""1984""?",George Orwell,J.R.R. Tolkien,Harper Lee,Ernest Hemingway,A
+What is the largest desert in the world?,Sahara Desert,Gobi Desert,Atacama Desert,Mojave Desert,A
+"Who composed the famous symphony ""Symphony No. 9""?",Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Pyotr Ilyich Tchaikovsky,A
+What is the largest planet in our solar system?,Jupiter,Earth,Saturn,Mars,A
+The condition that the equation ax + by + c = 0 represents a linear equation in two variables is,"a ≠ 0, b = 0","b ≠ 0, a = 0","a = 0, b = 0","a ≠ 0, b ≠ 0","a ≠ 0, b ≠ 0"
+"The class marks of a frequency distribution are given as follows:15, 20, 25, ...
+The class corresponding to the class mark 15 is:",12.5 - 17.5,17.5 - 22.5,18.5 - 21.5,19.5 - 20.5,12.5 - 17.5
+"If the perimeter of one of the faces of a cube is 40 cm, then its volume is:",6000 cm³,1600 cm³,1000 cm³,600 cm³,1000 cm³
+Equation of a line passing through origin is,x + y = 1,x = 2y - 4,x + y = 0,y = x - 1,x + y = 0
+The maximum number of points that lie on the graph of a linear equation in two variables is.,two,definite,infinitely many,three,infinitely many
